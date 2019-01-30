@@ -1,0 +1,12 @@
+{
+    "MongoDB" : {
+        "Configurations" : {
+            "host" : "localhost",
+            "user" : "",
+            "password" : "",
+            "port" : "27017",
+            "database" : "DB_Name"
+        },
+        "currentVersion" : 1
+    }
+}
